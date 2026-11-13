@@ -1,1 +1,0 @@
-# GPU-Accelerated Object Detection
