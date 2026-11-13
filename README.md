@@ -1,5 +1,7 @@
 # autonomous-racing 🚧
 
+## Overview
+
 Autonomous driving stack for a 1/10-scale F1TENTH car (ROS 2, NVIDIA Jetson).
 
 Note: C++ implementation of selected components, built with CMake, tested with GoogleTest, and CI on GitHub Actions. 
@@ -14,3 +16,5 @@ Note: C++ implementation of selected components, built with CMake, tested with G
 | 🏁 Gap Follow | follow the gap, disparity extender |
 | 🧱 Wall Follow | wall following with PID control |
 | 🛑 Safety | automatic emergency braking (AEB), time-to-collision (TTC) |
+
+Note: YOLO Sign Detection under autonomous racing covers implementation; [computer-architecture](https://github.com/nyinyioo/computer-architecture) covers the performance.
