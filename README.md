@@ -1,10 +1,8 @@
 # autonomous-racing 🚧
 
-Autonomous driving stack for a 1/10-scale F1TENTH car (ROS 2, NVIDIA Jetson), based on milestones from UBC CPEN 391.
+Autonomous driving stack for a 1/10-scale F1TENTH car (ROS 2, NVIDIA Jetson).
 
-Note: 
-- Course implementations were written in Python. 
-- This repository is a C++ implementation of selected components, built with CMake, tested with GoogleTest, and CI on GitHub Actions. 
+Note: C++ implementation of selected components, built with CMake, tested with GoogleTest, and CI on GitHub Actions. 
 
 <br>
 
